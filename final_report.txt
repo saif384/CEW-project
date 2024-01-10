@@ -1,0 +1,20 @@
+Date: 2024-01-12
+Average Temperature: 20.91C
+Average Humidity: 44.96
+Average Wind_kph: 8.70
+Average Wind_mph: 5.42
+Average Feels Like: 21.04C
+
+Date: 2024-01-11
+Average Temperature: 20.31C
+Average Humidity: 33.75
+Average Wind_kph: 8.02
+Average Wind_mph: 4.97
+Average Feels Like: 20.38C
+
+Date: 2024-01-10
+Average Temperature: 19.75C
+Average Humidity: 35.29
+Average Wind_kph: 14.68
+Average Wind_mph: 9.12
+Average Feels Like: 19.74C
