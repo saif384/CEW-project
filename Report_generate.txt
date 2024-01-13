@@ -1,0 +1,28 @@
+
+Current Weather in Karachi, Pakistan:
+Date/Time: 2024-01-13 / 17:57:13
+Temperature: 25.00C
+Humidity: 34.00
+Wind Speed: 6.90 mph / 11.20 kph
+Feels Like: 25.90C
+
+
+
+Today's Weather Forecast:
+----------------------------
+
+Average Temperature: 21.10C
+Average Humidity: 57.71
+Average Wind_kph: 15.68
+Average Wind_mph: 9.74
+Average Feels Like: 21.53C
+
+Weather Analysis:
+----------------------------
+
+It will be very cold today so take the following precautions for your safety: 
+-->Wear multiple layers of clothing to trap and retain body heat.
+-->Use thermal or insulated clothing as a base layer for better insulation.
+-->Wear gloves or mittens to protect hands from cold exposure. 
+-->Use thermal socks and insulated boots to keep feet warm.
+-->Perform simple exercises to maintain circulation and warmth.
