@@ -11,7 +11,7 @@ int main() {
     fprintf(finalize,"hello");
     fclose(finalize);
     
-    const char *to = "hafizabdulbaseer565@gmail.com";
+    const char *to = "rsaifur388@gmail.com";
     const char *file_path = "work.txt";
     
 
